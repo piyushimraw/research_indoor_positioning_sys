@@ -5,4 +5,4 @@ We have several technology there please pick a technology and do extensive resea
 1. Pros/Cons of Technology
 2. Abstract Implementation Idea
 3. Reference to some open source libraries
-4. Documentations
+4. Documentations links
