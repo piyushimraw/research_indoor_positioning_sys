@@ -17,4 +17,4 @@ Solution will use client server architecture to fetch the floor plans from serve
 Client app will request the floor plan for a building by `HTTP POST` request server will reply with `JSON` contaiing floor plan.
 Client app will load the map using that file 
 Please Install [Anyplace](https://github.com/piyushimraw/anyplace) and use it to get better understanding of its workings and someone 
-- [] Test the windows server installation 
+- [ ] Test the windows server installation 
