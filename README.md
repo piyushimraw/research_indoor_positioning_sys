@@ -6,3 +6,8 @@ We have several technology there please pick a technology and do extensive resea
 2. Abstract Implementation Idea
 3. Reference to some open source libraries
 4. Documentations links
+
+
+## Beacon method for Indoor Positioning System
+The most widely library used library is [AltBeacon Library](https://github.com/AltBeacon/android-beacon-library)
+[Documentation](https://altbeacon.github.io/android-beacon-library/)
