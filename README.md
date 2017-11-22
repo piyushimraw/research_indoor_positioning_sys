@@ -27,7 +27,11 @@ Please Install [Anyplace](https://github.com/piyushimraw/anyplace) and use it to
 ## Windows Installation of Anyplace
 To install and run windows server follow the following steps.
   1. **Install & Configure Couchbase** Download the latest Couchbase Server Community Edition from [https://www.couchbase.com/downloads](https://www.couchbase.com/downloads). Anyplace v3 has been tested with Couchbase 4.5, but compatibility with later versions is expected.   
-  2. **Download Anyplace v3:**
-        $ wget https://anyplace.cs.ucy.ac.cy/downloads/anyplace_v3.zip  
-        #if you don't have wget, just download the file with a browser)
+2. **Download Anyplace v3:**
+ 
+    $ wget https://anyplace.cs.ucy.ac.cy/downloads/anyplace_v3.zip  
+    #if you don't have wget, just download the file with a browser)
+    
+    $ unzip anyplace_v3.zip
+    #if you don't have unzip, just use any unzip tool (winzip, etc.)
     
