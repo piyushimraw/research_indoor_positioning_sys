@@ -13,7 +13,7 @@ The most widely library used library is [AltBeacon Library](https://github.com/A
 [Documentation](https://altbeacon.github.io/android-beacon-library/)
 
 ## update 
-> @Latest: Nov 21,2017 23:45
+> @Latest: Nov 21,2017 23:45.
 Solution will use client server architecture to fetch the floor plans from server.
 Client app will request the floor plan for a building by `HTTP POST` request server will reply with `JSON` contaiing floor plan.
 Client app will load the map using that file 
