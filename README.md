@@ -52,7 +52,7 @@ To install and run windows server follow the following steps.
             ```
     
     + Make sure a Couchbase instance is running, with the [Production Views](https://developer.couchbase.com/documentation/server/4.6/introduction/whats-new.html) the server invokes.
-    You can use the automated script (`create-views.sh`) in order to create the views under the [`anyplace_views`](anyplace_views) directory.
+    You can use the automated script (`create-views.sh`) in order to create the views under the [`anyplace_views`](https://github.com/piyushimraw/anyplace/tree/master/server/anyplace_views) directory.
     You need to set the username and the password for your couchbase instance.  
         * `USERNAME="o"` - This is the administrator's username for the couchbase instance.
         * `PASSWORD="ada"` - This is the administrator's password for the couchbase instance.
