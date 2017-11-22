@@ -59,6 +59,7 @@ To install and run windows server follow the following steps.
         * `BUCKET="anyplace"` - This is the bucket for the couchbase instance.
 
     ***Running The server***
+                
                 # WINDOWS
                 $ Go to the folder you unzipped in the prior step, then go to "bin" 
                 $ Double click  anyplace_v3.bat
